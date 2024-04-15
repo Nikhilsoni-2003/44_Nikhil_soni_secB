@@ -15,8 +15,7 @@ public class program1 {
 		person person1 = new person("Nikhil",20);
 		person person2 = new person("Ram",25);
 		
-		System.out.println("Name of person1 is : "+person1.name);
-		System.out.println("Age of person1 is : "+person1.age);
+		System.out.println("Name of person1 is : "+person1.name+" and Age of person1 is : "+person1.age);
 		System.out.println("Name of person1 is : "+person2.name);
 		System.out.println("Age of person2 is : "+person2.age);
 	}
